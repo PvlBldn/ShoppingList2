@@ -39,7 +39,7 @@
         android:layout_height="match_parent"
         app:layout_constraintStart_toStartOf="@id/guideline_middle"
         app:layout_constraintEnd_toEndOf="parent"
-        />
+ />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline_middle"
